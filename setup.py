@@ -45,7 +45,7 @@ setup(
         "typing==3.6.6",
         "yarl==1.3.0",
         "aiosqlite==0.10.0",
-        "tortoise-orm==0.12.2",
+        "tortoise-orm==0.15.23",
         "PuLP==1.6.10",
         "sympy==1.4",
         "dill==0.3.0",
